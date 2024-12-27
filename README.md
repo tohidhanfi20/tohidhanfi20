@@ -38,10 +38,11 @@
 
 | Logo | Certification                                  | Issued Date      | Link                                                                                             |
 |------|-----------------------------------------------|------------------|--------------------------------------------------------------------------------------------------|
-| ![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg) | **AWS Certified Cloud Practitioner**          | June 2023        | [View Certificate](https://drive.google.com/drive/u/1/folders/14yg_uHgz1P3LteQYSHV_AHZJueak1nB8) |
-| ![Azure Logo](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg) | **Microsoft Certified: Azure Administrator**  | August 2023      | [View Certificate](https://drive.google.com/drive/u/1/folders/14yg_uHgz1P3LteQYSHV_AHZJueak1nB8) |
-| ![Azure Logo](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg) | **Microsoft Certified Azure Fundamentals**    | June 2023        | [View Certificate](https://drive.google.com/drive/u/1/folders/14yg_uHgz1P3LteQYSHV_AHZJueak1nB8) |
-| ![Cisco Logo](https://logos-world.net/wp-content/uploads/2021/08/Cisco-Logo-700x394.png) | **Cisco Certified: Networking Essentials**    | August 2022      | [View Certificate](https://drive.google.com/drive/u/1/folders/14yg_uHgz1P3LteQYSHV_AHZJueak1nB8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="30"/> | **AWS Certified Cloud Practitioner**          | June 2023        | [View Certificate](https://drive.google.com/drive/u/1/folders/14yg_uHgz1P3LteQYSHV_AHZJueak1nB8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="30"/> | **Microsoft Certified: Azure Administrator**  | August 2023      | [View Certificate](https://drive.google.com/drive/u/1/folders/14yg_uHgz1P3LteQYSHV_AHZJueak1nB8) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="30"/> | **Microsoft Certified Azure Fundamentals**    | June 2023        | [View Certificate](https://drive.google.com/drive/u/1/folders/14yg_uHgz1P3LteQYSHV_AHZJueak1nB8) |
+| <img src="https://logos-world.net/wp-content/uploads/2021/08/Cisco-Logo-700x394.png" width="30"/> | **Cisco Certified: Networking Essentials**    | August 2022      | [View Certificate](https://drive.google.com/drive/u/1/folders/14yg_uHgz1P3LteQYSHV_AHZJueak1nB8) |
+
 
 
 
