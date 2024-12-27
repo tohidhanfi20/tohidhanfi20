@@ -17,12 +17,10 @@
 
 ## 💻 Tech Stack:
 
-### IAC:
 <div align="center">
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 </div>
 
-### CI/CD:
 <div align="center">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </div>
