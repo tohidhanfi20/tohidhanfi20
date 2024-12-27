@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I’m open to work as a [Devops/Cloud Engineer].  
-👯 I’m looking to collaborate on [Your Interests or Projects, e.g., "Cloud content creation, automation, DevOps projects"].  
-💬 Let’s discuss [Your Favorite Topics, e.g., "Cloud computing, Kubernetes, or DevOps strategies"].  
-⚡ Fun fact: [Your Fun Fact, e.g., "I can't solve Rubik’s cube in under 2 minutes!"].  
+🔭 I’m open to work as a Devops/Cloud Engineer.  
+👯 I’m looking to collaborate on Your Interests or Projects, e.g., "Cloud content creation, automation, DevOps projects".  
+💬 Let’s discuss Your Favorite Topics, e.g., "Cloud computing, Kubernetes, or DevOps strategies".  
+⚡ Fun fact: "I can't solve Rubik’s cube in under 2 minutes!".  
 
 ---
 
