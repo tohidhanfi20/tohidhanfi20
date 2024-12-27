@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🔭 I’m open to work as a Devops/Cloud Engineer.  
-👯 I’m looking to collaborate on Your Interests or Projects, e.g., "Cloud content creation, automation, DevOps projects".  
+👯 I’m looking to collaborate on Your Interests or Projects, e.g., "Cloud automation, DevOps projects".  
 💬 Let’s discuss Your Favorite Topics, e.g., "Cloud computing, Kubernetes, or DevOps strategies".  
 ⚡ Fun fact: "I can't solve Rubik’s cube in under 2 minutes!".  
 
@@ -15,18 +15,23 @@
 
 ---
 
-## 💻 Tech Stack:  
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoft-azure&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins&logoColor=white)  
-![Ansible](https://img.shields.io/badge/Ansible-darkred?logo=ansible&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)  
-![Prometheus](https://img.shields.io/badge/Prometheus-orange?logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-yellow?logo=grafana&logoColor=black)  
-... (Add more tools as needed)  
+## 💻 Tech Stack:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
+
+
 
 ---
 
