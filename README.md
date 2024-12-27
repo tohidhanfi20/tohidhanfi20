@@ -34,10 +34,20 @@
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
 </div>
 
+## 📜 Certifications
 
+- **[AWS Certified Cloud Practitioner](https://drive.google.com/link-to-your-certificate)**  
+  *(Issued: January 2023)*
 
+- **[Microsoft Certified: Azure Administrator Associate](https://drive.google.com/link-to-your-certificate)**  
+  *(Issued: March 2023)*
 
----
+- **[Microsoft Certified Azure Fundamentals](https://drive.google.com/link-to-your-certificate)**  
+  *(Issued: June 2023)*
+
+- **[Cisco Certified: Networking Essentials](https://drive.google.com/link-to-your-certificate)**  
+  *(Issued: September 2023)*
+
 
 ## 📊 GitHub Stats:  
 ![](https://github-readme-stats.vercel.app/api?username=tohidhanfi20&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
@@ -58,7 +68,3 @@
 
 ## 🏆 GitHub Trophies:  
 ![](https://github-profile-trophy.vercel.app/?username=tohidhanfi20&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)  
-
----
-
-Feel free to modify the template as per your needs. Let me know if you'd like additional customization or integration for specific tools/services.
