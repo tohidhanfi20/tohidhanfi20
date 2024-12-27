@@ -41,12 +41,12 @@
 ---
 
 ## 🔝 Top Contributed Repo:  
-![](https://github-contributor-stats.vercel.app/api?username=yourusername&limit=1&theme=dark&combine_all_yearly_contributions=true)  
+![](https://github-contributor-stats.vercel.app/api?username=tohidhanfi20&limit=1&theme=dark&combine_all_yearly_contributions=true)  
 
 ---
 
 ## 🏆 GitHub Trophies:  
-![](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)  
+![](https://github-profile-trophy.vercel.app/?username=tohidhanfi20&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)  
 
 ---
 
