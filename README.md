@@ -36,16 +36,16 @@
 
 ## 📜 Certifications
 
-- **[AWS Certified Cloud Practitioner](https://drive.google.com/link-to-your-certificate)**  
+- **[AWS Certified Cloud Practitioner]([https://drive.google.com/link-to-your-certificate](https://drive.google.com/drive/u/1/folders/14yg_uHgz1P3LteQYSHV_AHZJueak1nB8))**  
   *(Issued: January 2023)*
 
-- **[Microsoft Certified: Azure Administrator Associate](https://drive.google.com/link-to-your-certificate)**  
+- **[Microsoft Certified: Azure Administrator Associate]([https://drive.google.com/link-to-your-certificate](https://drive.google.com/drive/u/1/folders/14yg_uHgz1P3LteQYSHV_AHZJueak1nB8))**  
   *(Issued: March 2023)*
 
-- **[Microsoft Certified Azure Fundamentals](https://drive.google.com/link-to-your-certificate)**  
+- **[Microsoft Certified Azure Fundamentals]([https://drive.google.com/link-to-your-certificate](https://drive.google.com/drive/u/1/folders/14yg_uHgz1P3LteQYSHV_AHZJueak1nB8))**  
   *(Issued: June 2023)*
 
-- **[Cisco Certified: Networking Essentials](https://drive.google.com/link-to-your-certificate)**  
+- **[Cisco Certified: Networking Essentials]([https://drive.google.com/link-to-your-certificate](https://drive.google.com/drive/u/1/folders/14yg_uHgz1P3LteQYSHV_AHZJueak1nB8))**  
   *(Issued: September 2023)*
 
 
