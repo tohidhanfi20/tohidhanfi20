@@ -1,17 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working as a [Your Role/Position].  
+🔭 I’m open to work as a [Devops/Cloud Engineer].  
 👯 I’m looking to collaborate on [Your Interests or Projects, e.g., "Cloud content creation, automation, DevOps projects"].  
 💬 Let’s discuss [Your Favorite Topics, e.g., "Cloud computing, Kubernetes, or DevOps strategies"].  
-⚡ Fun fact: [Your Fun Fact, e.g., "I can solve Rubik’s cube in under 2 minutes!"].  
+⚡ Fun fact: [Your Fun Fact, e.g., "I can't solve Rubik’s cube in under 2 minutes!"].  
 
 ---
 
 ## 🌐 Socials:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)  
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@yourprofile)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/yourchannel)  
-[![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)](https://hub.docker.com/u/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=google-chrome&logoColor=white)](https://yourportfolio.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tohidhanfi/)
+[![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)](https://hub.docker.com/u/tohidaws)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=google-chrome&logoColor=white)](https://tohidhanfi.cloud/)  
 
 ---
 
