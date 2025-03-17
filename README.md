@@ -39,6 +39,7 @@
 
 | Logo | Certification                                  | Issued Date      | Link                                                                                             |
 |------|-----------------------------------------------|------------------|--------------------------------------------------------------------------------------------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Google_Cloud_Logo.svg" width="30"/> | GCP Certified Professional Cloud DevOps Engineer | March 2025 | View Certificate |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="30"/> | **AWS Certified Cloud Practitioner**          | June 2023        | [View Certificate](https://drive.google.com/drive/u/1/folders/14yg_uHgz1P3LteQYSHV_AHZJueak1nB8) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="30"/> | **Microsoft Certified: Azure Administrator**  | August 2023      | [View Certificate](https://drive.google.com/drive/u/1/folders/14yg_uHgz1P3LteQYSHV_AHZJueak1nB8) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="30"/> | **Microsoft Certified Azure Fundamentals**    | June 2023        | [View Certificate](https://drive.google.com/drive/u/1/folders/14yg_uHgz1P3LteQYSHV_AHZJueak1nB8) |
